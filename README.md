@@ -30,7 +30,7 @@
     - Js </br>
     - Html </br>
     - Css </br> </br>
-    Atualmente estou estudando: Nodejs. </br> </br>
+    Atualmente estudando: Nodejs </br> </br>
    🔥 Contate-me nas redes sociais: </> 
     
       
