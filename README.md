@@ -24,12 +24,12 @@
 </div> <br>
 
   <div>   
-    <h4> Olá me chamo Glauber Monteiro, estou no 4periodo de Ciencia da Computação </br></br>
+    <h4> Olá me chamo Glauber Monteiro, estou no 4periodo de Ciencia da Computação. </br></br>
     Atualmente tenho projetos feitos em: </br> 
-    - PHP </br>
-    - JS </br>
-    - Html </br>
-    - Css </br> </br>
+    - php </br>
+    - js </br>
+    - html </br>
+    - css </br> </br>
    💥 Atualmente estou estudando: Nodejs. </> 
     
       
