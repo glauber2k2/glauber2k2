@@ -26,11 +26,12 @@
   <div>   
     <h4> Olá me chamo Glauber Monteiro, estou no 4periodo de Ciencia da Computação. </br></br>
     Atualmente tenho projetos feitos em: </br> 
-    - php </br>
-    - js </br>
-    - html </br>
-    - css </br> </br>
-   💥 Atualmente estou estudando: Nodejs. </> 
+    - Php </br>
+    - Js </br>
+    - Html </br>
+    - Css </br> </br>
+    Atualmente estou estudando: Nodejs. </br> </br>
+   🔥 Contate-me nas redes sociais: </> 
     
       
       
