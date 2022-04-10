@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/glauber2k2">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=glauber2k2&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glauber2k2&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glauber2k2&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glauber2k2&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
   ##
@@ -21,7 +21,7 @@
   <img align="center" alt="gb-html" height="30" width="90" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="gb-css" height="30" width="90" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="gb-cplusplus" height="30" width="90" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="right" alt="Rafa-pic" height="180" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/874894710433546292/962085403513487420/IMG_0044.png">
+
 </div> <br>
   
 ##
