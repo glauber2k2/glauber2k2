@@ -1,7 +1,7 @@
 ### 
 <div> 
 
-<img align="left" alt="gb-perfil" height="360" width="270" src="https://cdn.discordapp.com/attachments/874894710433546292/962844062782717962/IMG_0246.jpg](https://github.com/glauber2k2)">
+<img align="left" alt="gb-perfil" height="360" width="270" src="https://github.com/glauber2k2">
 
 </div>
 
