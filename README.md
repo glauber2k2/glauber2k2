@@ -18,18 +18,15 @@
   <img align="center" alt="gb-js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="gb-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="gb-css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="gb-cplusplus" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="gb-php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 
 </div> <br>
 
   <div>   
-    <h4> Olá me chamo Glauber Monteiro, estou no 4periodo de Ciencia da Computação. </br></br>
+    <h4> Salve me chamo Glauber Monteiro, estou no 6 periodo de Ciencia da Computação. </br></br>
     Atualmente tenho projetos feitos em: </br> 
     - Php </br>
-    - Js </br>
-    - Html </br>
-    - Css </br> </br>
+    - Js </br> </br>
     Atualmente estudando: Nodejs </br> </br>
    🔥 Contate-me nas redes sociais: </> 
     
