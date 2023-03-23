@@ -1,7 +1,7 @@
 ### 
 <div> 
 
-<img align="left" alt="gb-perfil" height="360" width="270" src="https://cdn.discordapp.com/attachments/1051892916693516338/1052218799702671450/IMG_1536.jpg">
+<img align="left" alt="gb-perfil" height="360" width="270" src="https://cdn.discordapp.com/attachments/1051892916693516338/1088293223157465088/0BB56328-56E7-454C-A451-E2828C6B875A.jpg">
 
 </div>
 
