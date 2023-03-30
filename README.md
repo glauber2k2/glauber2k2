@@ -18,14 +18,14 @@
   <br>
   <div align="center">
   <h3><b>contacte-me:</b></h3>
-  <a href="https://www.linkedin.com/in/glauber-monteiro-40439b238/" target="_blank">
+  <a href="https://www.linkedin.com/in/glauber-monteiro-40439b238/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-linkedin-orange.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:devglaubermonteiro@gmail.com" target="_blank">
+  <a href="mailto:devglaubermonteiro@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-gmail-orange?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="https://www.instagram.com/glauber.sm/" target="_blank">
+  <a href="https://www.instagram.com/glauber.sm/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-instagram-orange.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
 
