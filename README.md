@@ -80,4 +80,4 @@
 </samp>
 </details>
 
-<img align="center" src="https://media.discordapp.net/attachments/1051892916693516338/1090968571754057791/00009-3674457292.png" width="100%" height="250px" />
+<img align="center" src="https://media.discordapp.net/attachments/1051892916693516338/1090979283167617044/00019-2356181945.png" width="100%" height="250px" />
