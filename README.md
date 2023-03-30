@@ -5,9 +5,9 @@
 
   <img align="right" src="https://media.discordapp.net/attachments/1051892916693516338/1088293223157465088/0BB56328-56E7-454C-A451-E2828C6B875A.jpg?width=526&height=701" height="270px">
 
-<b align="left">Sobre:</b>
+<b align="left">Opa, deixa eu me apresentar:</b>
 
-<p align="left">Opa, me chamo Glauber Monteiro, natural de João Pessoa - PB, tenho 21 anos, e atualmente estou terminando o curso de ciencias da computação, tenho projetos realizado tanto para front-end quanto para back end.</p>
+<p align="left">Me chamo Glauber Monteiro, natural de João Pessoa - PB, tenho 21 anos, e atualmente estou terminando o curso de ciencias da computação, tenho projetos realizado tanto para front-end quanto para back end.</p>
 <h3>tenho experiencia em:</h3>
 <img align="center" alt="gb-py" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="gb-django" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
