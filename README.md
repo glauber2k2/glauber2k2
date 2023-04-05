@@ -46,8 +46,8 @@
   <a href="https://github.com/glauber2k2/RedeSocial">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&show_icons=true&theme=codeSTACKr&border_color=A6A6A6CF&repo=RedeSocial" />
   </a>
-  <a href="https://github.com/glauber2k2/ListaDeTarefas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&show_icons=true&theme=codeSTACKr&border_color=A6A6A6CF&repo=ListaDeTarefas" />
+  <a href="https://github.com/glauber2k2/envioDeEmail">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&show_icons=true&theme=codeSTACKr&border_color=A6A6A6CF&repo=envioDeEmail" />
   </a>
   <a href="https://github.com/glauber2k2/webhospital">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&show_icons=true&theme=codeSTACKr&border_color=A6A6A6CF&repo=webhospital" />
