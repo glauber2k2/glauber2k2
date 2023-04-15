@@ -42,8 +42,8 @@
 <div align="center">
   
   
-  <a href="https://github.com/glauber2k2/OficinaLavaJato">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&theme=codeSTACKr&border_color=A6A6A6CF&repo=OficinaLavaJato" />
+  <a href="https://github.com/glauber2k2/hamburgueria_nextjs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&theme=codeSTACKr&border_color=A6A6A6CF&repo=hamburgueria_nextjs" />
   </a>
   <a href="https://github.com/glauber2k2/RedeSocial">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&show_icons=true&theme=codeSTACKr&border_color=A6A6A6CF&repo=RedeSocial" />
