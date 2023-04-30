@@ -7,7 +7,7 @@
 
 <b align="left">Opa, deixa eu me apresentar:</b>
 
-<p align="left">Me chamo Glauber Monteiro, natural de João Pessoa - PB, tenho 21 anos, e atualmente estou me formando em ciencias da computação, tenho projetos realizado tanto para front-end quanto para back end.</p>
+<p align="left">Me chamo Glauber Monteiro, natural de João Pessoa - PB, tenho 21 anos, e atualmente estou me formando em ciencias da computação, e já tenho experiencia com diversos projetos Front-end.</p>
 <h3>tenho experiencia em:</h3>
 <img align="center" alt="gb-py" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="gb-django" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
