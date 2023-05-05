@@ -11,12 +11,15 @@
 <h3>tenho experiencia em:</h3>
 <!-- <img align="center" alt="gb-py" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> -->
 <!-- <img align="center" alt="gb-django" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> -->
+<img align="center" alt="gb-js" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img align="center" alt="gb-js" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="gb-react" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="center" alt="gb-node" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="gb-html" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
 <img align="center" alt="gb-css" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 <img align="center" alt="gb-nxt" height="35" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="center" alt="gb-git" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          
           
 
   <br>
