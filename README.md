@@ -9,8 +9,8 @@
 
 <p align="left">Me chamo Glauber Monteiro, natural de João Pessoa - PB, tenho 21 anos, e atualmente estou me formando em ciencias da computação, e já tenho experiencia com diversos projetos Front-end.</p>
 <h3>tenho experiencia em:</h3>
-<img align="center" alt="gb-py" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="gb-django" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+<!-- <img align="center" alt="gb-py" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> -->
+<!-- <img align="center" alt="gb-django" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> -->
 <img align="center" alt="gb-js" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="gb-react" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="center" alt="gb-node" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -64,9 +64,6 @@
   <br>
 <div align="center">
   <a href = "https://github.com/glauber2k2">
-        <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=glauber2k2&show_icons=true&line_height=20&theme=transparent&hide_rank=true&include_all_commits=true&count_private=true&locale=pt-br&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glauber2k2&langs_count=6&layout=compact&line_height=30&locale=pt-br&theme=transparent&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5">
-    <img height="180em" src="https://streak-stats.demolab.com?user=glauber2k2&theme=github-dark&locale=pt_BR&fire=FF8B33&ring=0094F5C5&currStreakNum=FF8B33&currStreakLabel=FF8B33&sideLabels=0094F5C5&sideNums=0094F5C5&dates=0094F5C5&background=FFFFFF00&border=A6A6A6CF&stroke=0094F5C5"> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glauber2k2&show_icons=true&line_height=20&theme=codeSTACKr&hide_rank=true&include_all_commits=true&count_private=true&locale=pt-br&border_color=A6A6A6CF">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glauber2k2&langs_count=6&layout=compact&line_height=30&locale=pt-br&theme=codeSTACKr&border_color=A6A6A6CF">
     <img height="180em" src="https://streak-stats.demolab.com?user=glauber2k2&theme=codeSTACKr&locale=pt_BR&fire=FF8B33&border=A6A6A6CF&stroke=0094F5C5">
