@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-gmail-orange?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="https://www.instagram.com/glauber.sm/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/devglauber/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-instagram-orange.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
 
