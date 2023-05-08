@@ -45,18 +45,18 @@
 <div align="center">
   
   
+  <a href="https://github.com/glauber2k2/eCommerce">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&show_icons=true&theme=codeSTACKr&border_color=A6A6A6CF&repo=eCommerce" />
+  </a>
+  <a href="https://github.com/glauber2k2/Costs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&show_icons=true&theme=codeSTACKr&border_color=A6A6A6CF&repo=Costs" />
+  </a>
   <a href="https://github.com/glauber2k2/hamburgueria_nextjs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&theme=codeSTACKr&border_color=A6A6A6CF&repo=hamburgueria_nextjs" />
   </a>
-  <a href="https://github.com/glauber2k2/RedeSocial">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&show_icons=true&theme=codeSTACKr&border_color=A6A6A6CF&repo=RedeSocial" />
+<a href="https://github.com/glauber2k2/lojaNextJs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&theme=codeSTACKr&border_color=A6A6A6CF&repo=lojaNextJs" />
   </a>
-  <a href="https://github.com/glauber2k2/envioDeEmail">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&show_icons=true&theme=codeSTACKr&border_color=A6A6A6CF&repo=envioDeEmail" />
-  </a>
-  <a href="https://github.com/glauber2k2/webhospital">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&show_icons=true&theme=codeSTACKr&border_color=A6A6A6CF&repo=webhospital" />
-    </a><br>
   
   </div>
 </details>
