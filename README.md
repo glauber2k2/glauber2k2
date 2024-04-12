@@ -46,16 +46,16 @@
   
   
   <a href="https://github.com/glauber2k2/eCommerce">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&show_icons=true&theme=codeSTACKr&border_color=A6A6A6CF&repo=eCommerce" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&show_icons=true&theme=dark&border_color=A6A6A6CF&repo=eCommerce" />
   </a>
   <a href="https://github.com/glauber2k2/Costs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&show_icons=true&theme=codeSTACKr&border_color=A6A6A6CF&repo=Costs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&show_icons=true&theme=dark&border_color=A6A6A6CF&repo=Costs" />
   </a>
   <a href="https://github.com/glauber2k2/hamburgueria_nextjs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&theme=codeSTACKr&border_color=A6A6A6CF&repo=hamburgueria_nextjs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&theme=dark&border_color=A6A6A6CF&repo=hamburgueria_nextjs" />
   </a>
 <a href="https://github.com/glauber2k2/lojaNextJs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&theme=codeSTACKr&border_color=A6A6A6CF&repo=lojaNextJs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glauber2k2&theme=dark&border_color=A6A6A6CF&repo=lojaNextJs" />
   </a>
   
   </div>
@@ -67,7 +67,7 @@
   <br>
 <div align="center">
   <a href = "https://github.com/glauber2k2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glauber2k2&show_icons=true&line_height=20&theme=codeSTACKr&hide_rank=true&include_all_commits=true&count_private=true&locale=pt-br&border_color=A6A6A6CF">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glauber2k2&show_icons=true&line_height=20&theme=dark&hide_rank=true&include_all_commits=true&count_private=true&locale=pt-br&border_color=A6A6A6CF">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glauber2k2&langs_count=6&layout=compact&line_height=30&locale=pt-br&theme=codeSTACKr&border_color=A6A6A6CF">
     <img height="180em" src="https://streak-stats.demolab.com?user=glauber2k2&theme=codeSTACKr&locale=pt_BR&fire=FF8B33&border=A6A6A6CF&stroke=0094F5C5">
     </a>
