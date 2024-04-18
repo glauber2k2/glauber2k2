@@ -84,4 +84,4 @@
 </samp>
 </details>
 
-<img align="center" src="https://media.licdn.com/dms/image/D4D16AQFDUjaMoaML2w/profile-displaybackgroundimage-shrink_350_1400/0/1683914067308?e=1718236800&v=beta&t=Apui6EP-uH2dnhf36z1J4_xA3JCHad-DbzxZarbpKxo" width="100%" height="250px" />
+<img align="center" src="https://media.licdn.com/dms/image/D4D16AQGRRXpZpoBjBw/profile-displaybackgroundimage-shrink_350_1400/0/1713466736722?e=1718841600&v=beta&t=gBG410wucgKW-WkjGAoZlFK_tNmdO2vj_pYwR9o6fjE" width="100%" height="250px" />
