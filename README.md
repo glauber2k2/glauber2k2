@@ -7,7 +7,7 @@
 
 <b align="left">Opa, deixa eu me apresentar:</b>
 
-<p align="left">Meu nome é Glauber Monteiro, sou brasileiro natural de João Pessoa, Paraíba. Possuo formação em Ciência da Computação, concluída na UNIPE de 2020 a 2024. Com 4 anos de experiência em programação, uma das minhas qualidades é minha persistência em alcançar meus objetivos. Sempre fui apaixonado por tecnologia e estou ansioso para continuar aprendendo!</p>
+<p align="left">Meu nome é Glauber Monteiro, sou brasileiro natural de João Pessoa, Paraíba. Possuo formação em Ciência da Computação, concluída na UNIPE em 2024. Com 4 anos de experiência em programação, uma das minhas qualidades é minha persistência em alcançar meus objetivos. Sempre fui apaixonado por tecnologia e estou ansioso para continuar aprendendo!</p>
 <!-- <img align="center" alt="gb-py" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> -->
 <!-- <img align="center" alt="gb-django" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> -->
 <img align="center" alt="gb-js" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
