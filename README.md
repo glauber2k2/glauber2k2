@@ -82,5 +82,3 @@
   </div> 
 </samp>
 </details>
-
-<img align="center" src="https://cdn.discordapp.com/attachments/582305086513086484/1272951007244062842/NET_0703_7930.jpg?ex=66bcd782&is=66bb8602&hm=d12cdacd05e21b2afba317355e44d37dbc42c564a3a5321ab3eacb632ee24a04&" width="100%" height="300px" />
